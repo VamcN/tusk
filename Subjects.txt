@@ -2,3 +2,4 @@ the available subjects are
 
 java
 dbms
+web tecnologies
