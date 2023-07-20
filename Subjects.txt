@@ -4,9 +4,15 @@ java
 dbms
 web tecnologies
 
+apptitude
+testing
 
 
 thankyou
 
+
+done with the version
+
 final version
+
 
