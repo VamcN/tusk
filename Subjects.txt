@@ -4,6 +4,8 @@ java
 dbms
 web tecnologies
 
+apptitude
+testing
 
 
 thankyou
